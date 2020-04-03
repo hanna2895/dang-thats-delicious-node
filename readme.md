@@ -4,6 +4,8 @@
 
 MongoDB - hosted on MongoDB Atlas
 
+### Error Handling - 11) using async await
+uses a higher order function to handle all error handling 
 
 
 ## What is this?
